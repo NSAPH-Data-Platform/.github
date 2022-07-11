@@ -1,5 +1,3 @@
-# .github
-
 National Studies on Air Pollution and Health (NSAPH) is a group of faculty,
 research scientists, post-doctoral researchers, graduate students, and college
 students studying data science methodologies in the context of climate change,
